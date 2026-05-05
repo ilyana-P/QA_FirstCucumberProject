@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePage" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-05-05T17:28:56.722Z" hostname="MacBookAir" time="2.257">
+  <properties/>
+  <testcase name="Verify HomePage title is displayed" classname="HomePage" time="2.257"/>
+  <system-out><![CDATA[
+@navigate
+?[1mScenario:?[22m Verify HomePage title is displayed       ?[90m# src/test/resources/features/navigate.feature:3?[39m
+  ?[32m✔?[39m ?[32m?[1mGiven ?[22mUser launcher Chrome browser?[39m             ?[90m# com.ilcarro.stepDefinitions.HomePageSteps.user_launcher_Chrome_browser()?[39m
+  ?[32m✔?[39m ?[32m?[1mWhen ?[22mUser opens ilcarro HomePage?[39m               ?[90m# com.ilcarro.stepDefinitions.HomePageSteps.opens_ilcarro_HomePage()?[39m
+  ?[32m✔?[39m ?[32m?[1mThen ?[22mUser verifies HomePage title is displayed?[39m ?[90m# com.ilcarro.stepDefinitions.HomePageSteps.user_verifies_HomePage_title()?[39m
+  ?[32m✔?[39m ?[32m?[1mAnd ?[22mUser closes browser?[39m                        ?[90m# com.ilcarro.stepDefinitions.HomePageSteps.closeBrowser()?[39m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

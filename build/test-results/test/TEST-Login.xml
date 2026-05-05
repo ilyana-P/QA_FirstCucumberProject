@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Login" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-04-30T19:07:24.393Z" hostname="MacBookAir" time="15.885">
+<testsuite name="Login" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-05T17:28:41.833Z" hostname="MacBookAir" time="14.888">
   <properties/>
-  <testcase name="Login with correct email and incorrect password #1" classname="Login" time="5.702"/>
-  <testcase name="Login with correct email and incorrect password #2" classname="Login" time="4.013"/>
-  <testcase name="Login with correct email and incorrect password #3" classname="Login" time="3.138"/>
-  <testcase name="Login with correct email and incorrect password #4" classname="Login" time="3.031"/>
+  <testcase name="Login with correct email and incorrect password #1" classname="Login" time="4.929"/>
+  <testcase name="Login with correct email and incorrect password #2" classname="Login" time="3.105"/>
+  <testcase name="Login with correct email and incorrect password #3" classname="Login" time="3.582"/>
+  <testcase name="Login with correct email and incorrect password #4" classname="Login" time="3.271"/>
   <system-out><![CDATA[
 @wrongPassword
 ?[1mScenario Outline:?[22m Login with correct email and incorrect password ?[90m# src/test/resources/features/login.feature:28?[39m

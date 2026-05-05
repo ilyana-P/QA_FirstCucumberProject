@@ -18,4 +18,5 @@ dependencies {
 
 test {
     useJUnit()
+    systemProperty "cucumber.filter.tags", System.getProperty("cucumber.filter.tags")
 }
